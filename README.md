@@ -1,7 +1,4 @@
 # 🌌 Market Mind: Quantum Financial Intelligence
-
-<div align="center">
-  <img src="https://picsum.photos/seed/market-mind/1200/400" alt="Market Mind Banner" width="100%" style="border-radius: 20px; margin-bottom: 20px;" />
   
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
